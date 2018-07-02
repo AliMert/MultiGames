@@ -1,6 +1,6 @@
 # MultiGames
 
-You can play Tic-Tac-Toe or Guessing a number with MultiGames.
+You can play Tic-Tac-Toe or Guessing a number game with MultiGames.
 
 The game runs on Terminal.
 
